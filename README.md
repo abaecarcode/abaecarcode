@@ -7,7 +7,7 @@
 Soy desarrollador web y aquí puedes ver mi currículum y proyectos.
 
 - 📫 Contacto: [Mi email](abaecar.code@gmail.com)
-- 💼 Mi CV online: [https://abaecarcode.github.io](https://abaecarcode.github.io)
+- 💼 Mi CV online: https://abaecarcode.github.io/cv-angular/
 - 🔭 Actualmente Cursando 1ºDAM
 ---
 
